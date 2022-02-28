@@ -6,6 +6,7 @@
 #### Prerequisites :
 - Python 3
 - MYSQL/XAMPP
+- Import student.sql file in phpmyadmin
 
 #### MYSQL database and table :
 ```
