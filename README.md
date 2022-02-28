@@ -1,9 +1,9 @@
-###  <center> Student Management System</center>
-####  <center> Documentation: </center>
+###  <center>Student Management System</center>
+####  <center>Documentation: </center>
 
 [<img src="documentation/doc.png" />](https://t.me/vinayak_09)
 
-#### Fetures :
+#### Fetures:
 - MySQL database
 - Validation of input
 - Add data
@@ -12,12 +12,12 @@
 - Upload data using CSV file
 - Exception handling
 
-#### Prerequisites :
+#### Prerequisites:
 - Python 3 [Download Python3 Here](https://www.python.org/downloads/)
 - MYSQL/XAMPP [Download XAMMP Here](https://www.apachefriends.org/download.html)
 - Import student.sql file in phpmyadmin
 
-#### MYSQL database and table :
+#### MYSQL database and table:
 ```
 Database: student 
 Table: students
@@ -26,8 +26,8 @@ Table: students
 
 #### How to Run this Project?
 - Clone this project or Download Zip.
-- Extract it and Open the Project in any IDE (Visual Studio Code or Pycharm)
-- Open terminal or cmd and run following command
+- Extract it and Open the Project.
+- Open terminal or cmd and run following command.
 ```shell
 pip3 install pymysql
 pip3 install mysqlclient
