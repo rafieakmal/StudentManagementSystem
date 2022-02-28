@@ -15,7 +15,7 @@ Table Name : students
 ```
 * Below is table which indicates columns present in students table and its type/datatype
 
-[<center><img src="media/table.png" /></center>](https://t.me/vinayak_09)
+[<center><img src="documentation/2.png" /></center>](https://t.me/vinayak_09)
 
 
 #### How to Run this Project?
