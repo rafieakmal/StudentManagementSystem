@@ -1,4 +1,4 @@
-###  <center>Student Management System</center>
+#  <center>Student Management System</center>
 ####  <center>Documentation: </center>
 
 [<img src="documentation/doc.png" />](https://t.me/vinayak_09)
