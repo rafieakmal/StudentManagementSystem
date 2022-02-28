@@ -1,7 +1,7 @@
 ###  <center> Student Management System</center>
 ####  <center> Using Python Tkinter</center>
 
-[<img src="media/demo.gif" />](https://t.me/vinayak_09)
+[<img src="documentation/2.png" />](https://t.me/vinayak_09)
 
 #### Prerequisites :
 - pymysql package from PIP
@@ -13,9 +13,6 @@
 Database/Schema : test 
 Table Name : students
 ```
-* Below is table which indicates columns present in students table and its type/datatype
-
-[<center><img src="documentation/2.png" /></center>](https://t.me/vinayak_09)
 
 
 #### How to Run this Project?
