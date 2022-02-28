@@ -1,7 +1,7 @@
 ###  <center> Student Management System</center>
-####  <center> Using Python Tkinter</center>
+####  <center> Documentation: </center>
 
-[<img src="documentation/2.png" />](https://t.me/vinayak_09)
+[<img src="documentation/doc.png" />](https://t.me/vinayak_09)
 
 #### Prerequisites :
 - pymysql package from PIP
