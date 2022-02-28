@@ -9,8 +9,8 @@
 
 #### MYSQL database and table :
 ```
-Database : student 
-Table : students
+Database: student 
+Table: students
 ```
 
 
