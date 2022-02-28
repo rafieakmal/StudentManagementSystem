@@ -7,6 +7,7 @@
 - MySQL database
 - Validation of input
 - Add data
+- Search data
 - Remove data
 - Update data
 - Upload data using CSV file
