@@ -3,6 +3,15 @@
 
 [<img src="documentation/doc.png" />](https://t.me/vinayak_09)
 
+#### Fetures :
+- MySQL database
+- Basic Validation of input
+- Add data
+- Remove data
+- Update data
+- Upload data using CSV file
+- Exception handling
+
 #### Prerequisites :
 - Python 3
 - MYSQL/XAMPP
