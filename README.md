@@ -5,7 +5,7 @@
 
 #### Fetures :
 - MySQL database
-- Basic Validation of input
+- Validation of input
 - Add data
 - Remove data
 - Update data
