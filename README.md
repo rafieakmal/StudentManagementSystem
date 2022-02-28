@@ -10,8 +10,8 @@
 
 #### MYSQL database and table :
 ```
-Database/Schema : test 
-Table Name : students
+Database : student 
+Table : students
 ```
 
 
@@ -20,23 +20,11 @@ Table Name : students
 - Extract it and Open the Project in any IDE (Visual Studio Code or Pycharm)
 - Open terminal (cmd in case of WIndows) and run following command
 ```shell
-$ pip install pymysql
+$ pip3 install pymysql
+$ pip3 install mysqlclient
+$ pip3 install tk
+$ pip3 install pandas
+$ pip3 install sqlalchemy
+$ pip3 install mysql-connector-python
 $ python main.py
 ```
-- Done!
-
-<br>
-
-### FAQs :
-
-</br>
-
-1. Database error! Check mydbhelper.py ?<br>
-    --> Please make sure you have installed MYSQL with correct table name and with required columns. Open mydbhelper.py and change username and password with your credentials and type again. 
-
-2. Other Questions.<br>
-    -->Feel free to Connect with me on Telegram [@vinayak_09](http://t.me/vinayak_09).
-
-
-
-------------
