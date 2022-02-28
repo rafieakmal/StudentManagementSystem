@@ -13,8 +13,8 @@
 - Exception handling
 
 #### Prerequisites :
-- Python 3 [Install Python3 Here](https://www.python.org/downloads/)
-- MYSQL/XAMPP [Install XAMMP Here](https://www.apachefriends.org/download.html)
+- Python 3 [Download Python3 Here](https://www.python.org/downloads/)
+- MYSQL/XAMPP [Download XAMMP Here](https://www.apachefriends.org/download.html)
 - Import student.sql file in phpmyadmin
 
 #### MYSQL database and table :
@@ -37,3 +37,5 @@ $ pip3 install sqlalchemy
 $ pip3 install mysql-connector-python
 $ python3 main.py
 ```
+
+Araigatou~
