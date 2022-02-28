@@ -4,9 +4,8 @@
 [<img src="documentation/doc.png" />](https://t.me/vinayak_09)
 
 #### Prerequisites :
-- pymysql package from PIP
-- Basic knowledge about Tkinter, SQL queries.
-- MYSQL
+- Python 3
+- MYSQL/XAMPP
 
 #### MYSQL database and table :
 ```
@@ -26,5 +25,5 @@ $ pip3 install tk
 $ pip3 install pandas
 $ pip3 install sqlalchemy
 $ pip3 install mysql-connector-python
-$ python main.py
+$ python3 main.py
 ```
