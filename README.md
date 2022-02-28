@@ -13,8 +13,8 @@
 - Exception handling
 
 #### Prerequisites :
-- Python 3
-- MYSQL/XAMPP [Install XAMMP](https://www.apachefriends.org/download.html)
+- Python 3 [Install Python3 Here](https://www.python.org/downloads/)
+- MYSQL/XAMPP [Install XAMMP Here](https://www.apachefriends.org/download.html)
 - Import student.sql file in phpmyadmin
 
 #### MYSQL database and table :
