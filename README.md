@@ -27,7 +27,7 @@ Table: students
 #### How to Run this Project?
 - Clone this project or Download Zip.
 - Extract it and Open the Project in any IDE (Visual Studio Code or Pycharm)
-- Open terminal (cmd in case of WIndows) and run following command
+- Open terminal or cmd and run following command
 ```shell
 pip3 install pymysql
 pip3 install mysqlclient
