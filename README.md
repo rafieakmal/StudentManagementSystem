@@ -14,7 +14,7 @@
 
 #### Prerequisites :
 - Python 3
-- MYSQL/XAMPP
+- MYSQL/XAMPP [Install XAMMP](https://www.apachefriends.org/download.html)
 - Import student.sql file in phpmyadmin
 
 #### MYSQL database and table :
